@@ -2,7 +2,7 @@
 Prácticas: Rutina de tiempo y Semáforo
 -
 Códigos:
-- Esteban Ayala: pcode, SEMAFORO
+- Esteban Ayala: pcode, codesfm
 - Octavio de Marcelo: semaforo, newAsmTemplate
 - José Manuel Mendez: Practica2C, CodigoSemaforo
 -
